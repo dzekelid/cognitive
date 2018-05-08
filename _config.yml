@@ -4,7 +4,7 @@ url: cognitive.streamdata.gallery
 tag: Cognitive
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: cognitive
 github_branch: master
 collections:
