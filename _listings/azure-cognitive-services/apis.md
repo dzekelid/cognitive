@@ -27,17 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-skus-get.md
-- name: Azure Cognitive Services Cognitive Services Accounts Delete
-  description: Deletes a Cognitive Services account from the resource group.
+- name: Azure Cognitive Services Cognitive Services Accounts Get Properties
+  description: Returns a Cognitive Services account specified by the parameters.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cognitive-services.png
   humanURL: https://azure.microsoft.com/en-us/services/cognitive-services/
   baseURL: http:://management.azure.com//
   tags: Cognitive
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-get-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/cognitive-services/
