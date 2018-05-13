@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: CognitiveServicesManagementClient
-  description: Cognitive Services Management Client
+  title: Azure Cognitive Services Cognitive Services Accounts Delete
+  description: Deletes a Cognitive Services account from the resource group.
   version: 1.0.0
 host: management.azure.com
 basePath: /
