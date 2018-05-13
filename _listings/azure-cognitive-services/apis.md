@@ -27,7 +27,28 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-skus-get.md
+- name: Azure Cognitive Services Cognitive Services Accounts Create
+  description: Create Cognitive Services Account. Accounts is a resource group wide
+    resource type. It holds the keys for developer to access intelligent APIs. It's
+    also the resource type for billing.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cognitive-services.png
+  humanURL: https://azure.microsoft.com/en-us/services/cognitive-services/
+  baseURL: http:://management.azure.com//
+  tags: Cognitive
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cognitive/master/_listings/azure-cognitive-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cognitiveservices-accounts-accountname-put.md
 x-common:
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/azure/cognitive-services/
+- type: x-pricing
+  url: https://azure.microsoft.com/en-us/pricing/details/cognitive-services/
+- type: x-service-level-agreements
+  url: https://azure.microsoft.com/en-us/support/legal/sla/cognitive-services/
+- type: x-status
+  url: https://azure.microsoft.com/en-us/status/
+- type: x-website
+  url: https://azure.microsoft.com/en-us/services/cognitive-services/
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/cognitive-services/
 - type: x-pricing
