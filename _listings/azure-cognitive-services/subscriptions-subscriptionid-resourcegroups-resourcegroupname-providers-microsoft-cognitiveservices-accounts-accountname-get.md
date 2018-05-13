@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: CognitiveServicesManagementClient
-  description: Cognitive Services Management Client
+  title: Azure Cognitive Services Cognitive Services Accounts Get Properties
+  description: Returns a Cognitive Services account specified by the parameters.
   version: 1.0.0
 host: management.azure.com
 basePath: /
