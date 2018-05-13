@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: CognitiveServicesManagementClient
-  description: Cognitive Services Management Client
+  title: Azure Cognitive Services Cognitive Services Accounts Create
+  description: Create Cognitive Services Account. Accounts is a resource group wide
+    resource type. It holds the keys for developer to access intelligent APIs. It's
+    also the resource type for billing.
   version: 1.0.0
 host: management.azure.com
 basePath: /
