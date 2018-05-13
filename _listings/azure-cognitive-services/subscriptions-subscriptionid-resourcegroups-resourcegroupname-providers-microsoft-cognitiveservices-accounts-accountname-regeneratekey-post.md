@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: CognitiveServicesManagementClient
-  description: Cognitive Services Management Client
+  title: Azure Cognitive Services Cognitive Services Accounts Regenerate Key
+  description: Regenerates the specified account key for the specified Cognitive Services
+    account.
   version: 1.0.0
 host: management.azure.com
 basePath: /
